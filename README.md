@@ -1,0 +1,82 @@
+<p align="center">
+  <a href="#" rel="noopener">
+    <img width="350" height="350" src="assets/icon.png" alt="Music Player Logo"/>
+  </a>
+</p>
+
+<h1 align="center">🎵 Music Player</h1>
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/status-active-00ffea?style=for-the-badge&logo=appveyor&logoColor=white&labelColor=000000)
+![Node.js](https://img.shields.io/badge/Node.js-18+-3399ff?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000)
+![License](https://img.shields.io/badge/License-MIT-ff3cac?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=000000)
+![Version](https://img.shields.io/badge/version-1.2.7-green?style=for-the-badge&logo=semantic-release&logoColor=white&labelColor=000000)
+
+<h4>
+A simple yet <strong>powerful</strong> open-source music player built with <strong>ElectronJS</strong> and <strong>C#</strong>.<br>
+Designed with a clean <strong>minimalist UI</strong> and smooth performance.
+</h4>
+
+</div>
+
+---
+
+## 🚀 Features
+
+- 🎶 Full playback controls  
+- 🖤 Minimalist & simple interface  
+- ⚙️ High-performance C# backend  
+- 🚀 Smooth and responsive experience  
+- 🔓 Open-source  
+
+---
+
+## 💾 Installation
+
+### 1️⃣ Clone the repository
+```bash
+git clone <repository-url>
+```
+
+### 2️⃣ Run the application
+- Navigate to the **bin** folder  
+- Extract Build_Assets.zip
+- Run the `.exe` file
+
+> ⚠️ **Important**  
+> If the app fails to start or shows an error, try running it again.
+
+### 3️⃣ Enjoy 🎧
+Relax and listen to your music.
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend:** ElectronJS
+- **Backend:** C#  
+- **Platform:** Windows  
+
+---
+
+## 👨‍💻 Author
+
+- **Name:** Zayan Muhammed  
+- **Email:** zayan.shameermv@gmail.com  
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## 🖼 Credits
+
+Earbud Headphones icon by **Icons8**
+
+---
+
+⭐ If you find this project useful, please give it a star!

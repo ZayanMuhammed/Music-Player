@@ -1,0 +1,24 @@
+{
+  "name": "music-player-app",
+  "version": "1.0.0",
+  "description": "A lightweight Electron music player",
+  "author": "Zayan Muhammed",
+  "main": "src/main.js",
+  "build": {
+    "appId": "com.ZayanMuhammed.MusicPlayerApp",
+    "productName": "Music Player",
+    "files": [
+      "src/**/*",
+      "assets/**/*",
+      "public/**/*",
+      "package.json"
+    ],
+    "icon": "assets/icon.ico"
+  },
+  "dependencies": {
+    "ws": "^8.18.3"
+  },
+  "devDependencies": {
+    "electron": "^39.2.4"
+  }
+}
