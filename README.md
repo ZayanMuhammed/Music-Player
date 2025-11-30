@@ -36,7 +36,7 @@ Designed with a clean <strong>minimalist UI</strong> and smooth performance.
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/ZayanMuhammed/Music-Player
 ```
 
 ### 2️⃣ Run the application
