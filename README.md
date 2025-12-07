@@ -86,6 +86,7 @@ This project is licensed under the **MIT License**.
 # 🖼 Credits
 
 Earbud Headphones icon by **Icons8**
+
 Installation icon by **Icons8**
 
 ---
